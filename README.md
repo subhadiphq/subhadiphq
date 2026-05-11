@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Hi there, I'm Subhadip! 👋</h1>
   <a href="https://git.io/typing-svg">
@@ -48,11 +47,11 @@ A human-level exam learning platform focused on high-value competitive exams (CA
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhadiphq&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=808080" alt="Subhadip's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadiphq&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=808080" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadiphq&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=808080" alt="Top Languages" />
+  <p><i>"Designing the future of human-AI collaboration."</i></p>
 </div>
