@@ -30,5 +30,5 @@ I am a developer and entrepreneur focusing on building intelligent systems, mult
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhadiphq&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=808080" alt="Subhadip's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadiphq&theme=transparent&hide_border=true&title_color=2196F3&text_color=808080&icon_color=2196F3&sideNums=808080&sideLabels=808080&ring=2196F3&fire=2196F3&currStreakLabel=808080&currStreakNum=808080" alt="Subhadip's GitHub Streak" />
 </div>
