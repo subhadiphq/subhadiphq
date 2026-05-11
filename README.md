@@ -54,5 +54,5 @@ A human-level exam learning platform focused on high-value competitive exams (CA
 ---
 
 <div align="center">
-  <p><i>"Designing the future of human-AI collaboration."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadiphq&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=808080" alt="Top Languages" />
 </div>
