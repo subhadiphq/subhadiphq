@@ -1,48 +1,40 @@
-<h1 align="center">Subhadip Bhunia</h1>
+<div align="center">
 
-<p align="center">
-  Building practical digital products with clean design and modern technology.
+# Subhadip Bhunia
+
+### Minimal • Professional • Builder
+
+<p>
+  Building practical products with modern technology and disciplined execution.
 </p>
 
-<p align="center">
-  <a href="mailto:subhadip.learn@gmail.com">subhadip.learn@gmail.com</a>
+<p>
+  <a href="mailto:subhadip.learn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/subhadiphq">
+    <img src="https://img.shields.io/badge/GitHub-subhadiphq-black?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=subhadiphq&style=flat-square&color=black"/>
 </p>
+
+</div>
 
 ---
 
 ## About
 
-Focused on building useful and scalable projects while continuously improving in:
+```yaml
+Name: Subhadip Bhunia
+Focus:
+  - Full Stack Development
+  - AI Tools & Automation
+  - Scalable Digital Products
+  - Modern UI/UX
 
-- Web Development
-- AI Tools & Automation
-- Modern UI/UX
-- Problem Solving
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,mongodb,firebase,tailwind,vscode&theme=light" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=subhadiphq&show_icons=true&hide_border=true&theme=default" />
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadiphq&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
-## Current Focus
-
-```txt
-• Building professional projects
-• Learning advanced development workflows
-• Exploring AI-powered applications
-• Improving consistency and execution
+Currently:
+  - Building real-world projects
+  - Improving development workflows
+  - Exploring AI-powered systems
